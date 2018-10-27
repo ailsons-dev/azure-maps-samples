@@ -1,3 +1,5 @@
+<span style="color:red">Important! This repo has moved</span> to the  [Azure Maps Code Samples](https://github.com/Azure-Samples/AzureMapsCodeSamples) repo
+
 # Azure Maps Quickstart and Tutorials Samples
 
 This project is a collection of Azure Maps Quickstart and Tutorials for the Azure Maps documentation.
@@ -11,10 +13,6 @@ This project is a collection of Azure Maps Quickstart and Tutorials for the Azur
 * [Search nearby points of interest using Azure Maps](https://docs.microsoft.com/azure/azure-maps/tutorial-search-location)
 * [Route to a point of interest using Azure Maps](https://docs.microsoft.com/azure/azure-maps/tutorial-route-location)
 * [Find routes for different modes of travel using Azure Maps](https://docs.microsoft.com/azure/azure-maps/tutorial-prioritized-routes)
-
-## Related Projects ##
-
-* [Azure Maps Tutorial Samples](https://github.com/Azure-Samples/azure-maps-samples/tree/master/src)
 
 ## Additional Resources ##
 
