@@ -1,6 +1,6 @@
-<span style="color:red">Important! This repo has moved</span> to the  [Azure Maps Code Samples](https://github.com/Azure-Samples/AzureMapsCodeSamples) repo
+# Important! This repo has moved to the  [Azure Maps Code Samples](https://github.com/Azure-Samples/AzureMapsCodeSamples) repo
 
-# Azure Maps Quickstart and Tutorials Samples
+## Azure Maps Quickstart and Tutorials Samples
 
 This project is a collection of Azure Maps Quickstart and Tutorials for the Azure Maps documentation.
 
