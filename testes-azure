@@ -1,0 +1,22 @@
+-- Biling
+https://azure.microsoft.com/pt-br/pricing/details/azure-maps/
+
+--API Rest
+https://atlas.microsoft.com/search/fuzzy/json?
+https://atlas.microsoft.com/search/address/json?
+https://atlas.microsoft.com/search/address/reverse/json?
+api-version 	1.0
+subscription-key = ???
+query = "	.
+
+Keys
+Primary Key
+0zY3ITyYb4mdg1kHoFoQxIQOysOvKyVPsM-z8NIBots
+
+Secondary Key
+kdi2ObTQ1-zT6MkyPqC_2uicpyAOf3ymE1ZQSfyGGVg
+
+--Teste com Postman
+https://docs.microsoft.com/pt-br/azure/azure-maps/how-to-search-for-address
+
+https://atlas.microsoft.com/search/address/json?api-version=1.0&subscription-key=0zY3ITyYb4mdg1kHoFoQxIQOysOvKyVPsM-z8NIBots&query=Rua Visconde de Parnaiba, 1120, São Paulo, 03164-300
